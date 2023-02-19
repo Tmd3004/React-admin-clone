@@ -1,3 +1,12 @@
+### Project use Material Ui, Full Calendar, Yup Validation, Formik, React Pro Sidebar @0.7.1, and Nivo Charts 
+
+Material Ui is follow link: https://mui.com/material-ui/getting-started/installation/
+Full Calendar is follow link: https://fullcalendar.io/docs#toc
+Yup Validation is follow link: https://github.com/jquense/yup
+Formik is follow link: https://formik.org/docs/overview#installation
+React Pro Sidebar @0.7.1 is follow link: https://github.com/azouaoui-med/react-pro-sidebar/tree/v0.7.1
+Nivo Charts is follow link: https://nivo.rocks/components/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
